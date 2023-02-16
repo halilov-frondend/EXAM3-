@@ -30,14 +30,14 @@
 //     "Evelina": 1200
 // }
 
-// let sumSalaries = function (){
+// let sumSalaries = function (salaries){
 //     let param = 0
 // for (let property in salaries) {
 //     param += salaries[property];
 //     console.log(param)
 // }}
             
-// console.log(sumSalaries())
+// console.log(sumSalaries(salaries))
 
 
 //4 - task
@@ -60,4 +60,4 @@
 // }
 
 
-// calcSum([6,7,8,9,10]);
+// calcSum([1,2,3,4,5]);
